@@ -1,0 +1,6 @@
+my-supabase-app/
+  ├── pages/
+  │   └── index.js
+  ├── package.json
+  ├── next.config.js
+  ├── .gitignore
